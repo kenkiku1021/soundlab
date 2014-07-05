@@ -1,0 +1,12 @@
+.form-control {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#scope_wrapper {
+    width: 100%;
+}
+
+#scope {
+    border: solid 1px #7f7f7f;
+}
